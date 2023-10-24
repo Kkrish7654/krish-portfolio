@@ -59,12 +59,12 @@ const AboutMe: React.FC = () => {
           </p>
 
           <p className="mt-2 text-gray delay-three-element opacity-0">
-            "I am a highly observant and driven Full Stack Developer with a
+            I am a highly observant and driven Full Stack Developer with a
             strong foundation in both frontend and backend technologies.
             Specialized in JavaScript, React, <strong>HTML, CSS, Node.js, MySQL,
             MongoDB, and Prisma, </strong>I bring a diverse technical skill set to the
             table. As a creative and analytical thinker, I thrive on solving
-            complex challenges and creating innovative solutions".
+            complex challenges and creating innovative solutions.
           </p>
 
           <div ref={motionRef} className="mt-12 opacity-0">

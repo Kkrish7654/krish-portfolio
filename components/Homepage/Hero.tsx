@@ -40,7 +40,7 @@ const HeroSection: React.FC = () => {
             />
           </span>
           <p className="mt-2">
-            I'm a Web Developer based in India. I have a passion for web design
+            I&apos;m a Web Developer based in India. I have a passion for web design
             and love to create for web and mobile devices. I have a strong
             knowledge of HTML, CSS, JavaScript, React, and Node.js. looking for
             a new opportunity to work with a team that cares about creating
