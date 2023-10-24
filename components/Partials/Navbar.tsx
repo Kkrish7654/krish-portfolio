@@ -78,8 +78,8 @@ function Navbar() {
 
           <div className="hidden sm:block">
             <ul className="flex items-center gap-[1.5rem]">
-              {NAV_LINKS?.map((link) => (
-                <li>
+              {NAV_LINKS?.map((link,i:number) => (
+                <li key={i}>
                   <Link
                     className="link hover:text-primary whitespace-nowrap"
                     href={link.path}
